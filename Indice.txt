@@ -45,10 +45,10 @@ Scripts ->#########################################################
         > Gestores          [%] [] ? - | gestores.sh
         > Firewall          [%] [] ? - | firewall.sh
         > Systema           [%] [] ? - | systema.sh
-        > Multimedia        [-] [] ? - | multimedia.sh
+        > Multimedia        [%] [] ? - | multimedia.sh
         > 3DPrint           [%] [] ? - | 3dprint.sh
         > Otras             [%] [] ? - | otras.sh
-        > Opcionales        [-] [] ? - | opcionales.sh
+        > Opcionales        [%] [] ? - | opcionales.sh
         > Redes             [%] [] ? - | redes.sh
 
     > ~# Pentesting
@@ -176,7 +176,7 @@ arpwatch  > Auditoria tablas ARP.
 
 
 ##################################################
-#                                                #
-#                                                #
+#               A R C H Q R O                    #
+#                  2 0 21                        #
 ##################################################
 
