@@ -1,5 +1,13 @@
 # ArchQro **[VERSION ALPHA 0.3]** 
 ArchQuero Linux. Basado en ArchLinux.
+                
+** Este proyecto esta siendo mudado desde un proyecto antiguo. 
+Esta sufriendo un lavado de cara y publicacion publica para todos los usuarios.
+
+Contara con instalacion interactiva y automatica.
+Para la instalacion de ArchLinux y las aplicaciones añadidas. **
+
+
 
 Distribucion basada en ArchLinux, Con herramientas para analisis de redes domesticas.
 
@@ -23,7 +31,8 @@ Distribucion basada en ArchLinux, Con herramientas para analisis de redes domest
              
 
 Aplicaciones que trae: (con instalador propio y opcion de instalar o omitir instalacion segun los paquetes que quieras.
-    > ~#Aplicaciones:
+
+        > ~#Aplicaciones:
             > ~#Basicas:
                 > # Networking:
                     > iw                | Configuracion basica wifi
@@ -36,7 +45,7 @@ Aplicaciones que trae: (con instalador propio y opcion de instalar o omitir inst
                 > #Navegadores:
                     > Firefox
                     > Opera
-                    > Brave(yay)
+                    > Brave
                     > tor-browser-en    
                 > #Comunicacion:
                     > weechat           | IRC en consola
@@ -109,8 +118,7 @@ Aplicaciones que trae: (con instalador propio y opcion de instalar o omitir inst
             > # Otras:
                 > kdeconnect            | Conexion inalambrica moviles
                 > teamviewer            | Soporte remoto
-                > inkscape              | Editor fotografias
-                >
+                > inkscape              | Editor fotografia
 
             > ~# Redes:
                 > i2p
@@ -140,14 +148,6 @@ Aplicaciones que trae: (con instalador propio y opcion de instalar o omitir inst
 #### Posibles aplicaciones, No añadidas aun.
 cbatticon > Icono Bateria laptops
 arpwatch  > Auditoria tablas ARP.
-
-
-Este proyecto esta siendo mudado desde un proyecto antiguo.
-Esta sufriendo un lavado de cara y publicacion publica para todos los usuarios.
-
-Contara con instalacion interactiva y automatica.
-Para la instalacion de ArchLinux y las aplicaciones añadidas.
-
 
 #  **KOPIMY** Siéntete libre de participar en mi proyecto.
 
