@@ -1,14 +1,8 @@
 #!/bin/bash
-# Instalador ArchQro
+# Instalador ArchQro Aplicaciones
 # 
 
-# Creamos la varaible funcheck en la que almacenamos la 
-# orden dialog con la opción --separate-output
-
 funcheck=(dialog --separate-output --checklist "Selecciona los grupos a los que pertenece:" 0 0 0)
-
-# Definimos las opciones que apareceran en pantalla
-# aparecerán encendidas las que marquemos con on.
 opciones=(
  1 "redes" on 
  2 "Networking" off
