@@ -144,9 +144,11 @@ Aplicaciones que trae: (con instalador propio y opcion de instalar o omitir inst
                     > betaflight-configurator   | Configurador |> Requiere script.
 
 
-#### Posibles aplicaciones, No añadidas aun.
-cbatticon > Icono Bateria laptops
-arpwatch  > Auditoria tablas ARP.
+**#### Posibles aplicaciones, No añadidas aun.
+
+**cbatticon > Icono Bateria laptops.**
+
+**arpwatch  > Auditoria tablas ARP.**
 
 #  **KOPIMY** Siéntete libre de participar en mi proyecto.
 
