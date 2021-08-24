@@ -14,7 +14,7 @@ Distribucion basada en ArchLinux, Con herramientas para analisis de redes domest
         [%] -> Sin acabar
         [X] -> Acabado Y testeado
         [X] & [%] -> Funcionado pero necesita ser repasado.
-  0
+        
         # Alias que incluye:
             # Alias           EST                                     OK  EST-OK  
              > Base           [%] >                                 | [X]   [%] 
