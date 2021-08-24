@@ -26,18 +26,8 @@ opciones=(
  14 "otras" off
  15 "opcionales" off
  16 "i3wm" off)
-
-# Creamos la funcion selecciones que ejecuta funcheck con opciones 
-# y reenvia la salida al terminal para que el for siguiente ejecute
-# los comandos
 selecciones=$("${funcheck[@]}" "${opciones[@]}" 2>&1 >/dev/tty)
-
-# limpiamos la pantalla
 clear
-
-# añadimos un for para que ejecute un comando en función de 
-# las selecciones realizadas puedes cambiar el echo por 
-# cualquier comando o secuencias de comandos
 for seleccion in $selecciones
 do
  case $seleccion in
