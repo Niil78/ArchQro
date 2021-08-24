@@ -7,7 +7,7 @@
 # CodeBy:Niil78
 
 
-echo -e 'GESTORES'
+echo -e 'Gestores de paquetes de la comunidad'
 sleep 1
 echo -e 'Instalacion dependencias previas'
 sudo pacman -Qg base-devel

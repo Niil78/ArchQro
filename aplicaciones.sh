@@ -2,9 +2,9 @@
 # Instalador ArchQro Aplicaciones
 # 
 
-funcheck=(dialog --separate-output --checklist "Selecciona los paquetes de aplicaciones:" 0 0 0)
+funcheck=(dialog --title "Instaladorcl" --separate-output --checklist "Selecciona los paquetes de aplicaciones:" 0 0 0)
 opciones=(
- 1 "redes" on 
+ 1 "redes" off
  2 "Networking" off
  3 "Terminales" off
  4 "Navegadores" off
