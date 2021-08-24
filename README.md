@@ -144,7 +144,7 @@ Aplicaciones que trae: (con instalador propio y opcion de instalar o omitir inst
                     > betaflight-configurator   | Configurador |> Requiere script.
 
 
-**#### Posibles aplicaciones, No añadidas aun.
+#### Posibles aplicaciones, No añadidas aun.
 
 **cbatticon > Icono Bateria laptops.**
 
