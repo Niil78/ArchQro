@@ -5,7 +5,7 @@ Distribucion basada en ArchLinux, Con herramientas para analisis de redes domest
 
 Aplicaciones que trae: (opcionales)
 
-Aplicaciones:
+> ~#Aplicaciones:
     > ~#Basicas:
         > # Networking:
             > iw                | Configuracion basica wifi
