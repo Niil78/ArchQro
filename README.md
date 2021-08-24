@@ -3,8 +3,26 @@ ArchQuero Linux. Basado en ArchLinux.
 
 Distribucion basada en ArchLinux, Con herramientas para analisis de redes domesticas.
 
-Aplicaciones que trae: (opcionales)
+        [-] -> Sin Realizar 
+        [%] -> Sin acabar
+        [X] -> Acabado Y testeado
+        [X] & [%] -> Funcionado pero necesita ser repasado.
 
+        Alias que incluye:
+            # Alias           EST                                     OK  EST-OK  
+             > Base           [%] >                                 | [X]   [%] 
+             > Menu           [%] >                                 | [X]   [%] 
+             > iwconfig       [%] > Gestionar interfaces            | [X]   [%] 
+             > Netcat         [X] > Conexiones remotas y entrantes  | [X]   [%] 
+             > Nmap           [X] > Scaneres predefinidos           | [X]   [%] 
+             > Pacman         [X] > Instalacion y Actualizacion     | [X]   [X] 
+             > Servicios      [X] > Arrancar y apagar servicios.    | [X]   [%] 
+             > Systemctl      [X] > Añadir o quitar Arranque        | [X]   [%] 
+             > Teletransporte [%] > Moverse a localizaciones        | [X]   [%] 
+             > tizonia        [X] > Reproduccion rapida             | [X]   [X] 
+             
+
+Aplicaciones que trae: (con instalador propio y opcion de instalar o omitir instalacion segun los paquetes que quieras.
     > ~#Aplicaciones:
             > ~#Basicas:
                 > # Networking:
