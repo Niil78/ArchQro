@@ -8,6 +8,6 @@ Contara con instalacion interactiva y automatica.
 Para la instalacion de ArchLinux y las aplicaciones añadidas.
 
 
-
+#  **KOPIMY**
 
 2021
