@@ -14,8 +14,8 @@ Distribucion basada en ArchLinux, Con herramientas para analisis de redes domest
         [%] -> Sin acabar
         [X] -> Acabado Y testeado
         [X] & [%] -> Funcionado pero necesita ser repasado.
-
-        Alias que incluye:
+  0
+        # Alias que incluye:
             # Alias           EST                                     OK  EST-OK  
              > Base           [%] >                                 | [X]   [%] 
              > Menu           [%] >                                 | [X]   [%] 
@@ -27,9 +27,21 @@ Distribucion basada en ArchLinux, Con herramientas para analisis de redes domest
              > Systemctl      [X] > Añadir o quitar Arranque        | [X]   [%] 
              > Teletransporte [%] > Moverse a localizaciones        | [X]   [%] 
              > tizonia        [X] > Reproduccion rapida             | [X]   [X] 
-             
+          
+          #Scripts que incluye 
+              > ~# Pentesting
+                > MetaSploit    [X][X] > Funcional
+                > DeepSploit    [X][%] > Este Script nunca a sido probado.
+                > U2F           [X][%] > **NO INSTALAR ESTE SCRIPT AUN** [INACABADO Y PELIGROSO]
+          
+          #Configuraciones que incluye:
+                > Interfaces    [%] > Cambia los nombres de interfaces      [%] -> Necesita revision. No funciona correctamente.
+                > Firewall      [-] > Añade configuraciones a los Firewalls [-] -> Configuracion basica de firewalls.
+                > Pacman        [%] > Configura archivo de pacman           [%] -> Configuracion del archivo de pacman
+                > U2F           [X] > Configura seguridad U2F(YUBYKEY USB)  [%] -> Antiguo. Repasar (Necesita confirmar root)
+                > Redes         [%] > Añade redes adicionales               [-] -> Configuacion de las redes adiccionales 
 
-Aplicaciones que trae: (con instalador propio y opcion de instalar o omitir instalacion segun los paquetes que quieras.
+Aplicaciones que incluye: (con instalador propio y opcion de instalar o omitir instalacion segun los paquetes que quieras.
 
         > ~#Aplicaciones:
             > ~#Basicas:
