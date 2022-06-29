@@ -25,6 +25,8 @@ exec --no-startup-id feh --bg-fill /home/niil/wallpaper/wall.jpg
 #Cosas que se ejecutan al incio
 exec --no-startup-id volumeicon
 exec --no-startup-id kdeconnect-indicator
+exec --no-startup-id telegram-desktop
+exec --no-startup-id discord
 
 # Font para titulos.
 font pango:monospace 8
