@@ -50,7 +50,7 @@ floating_modifier $mod
 
 #Inciar una terminal
 #Windows + Enter
-bindsym $mod+Return exec konsole
+bindsym $mod+Return exec alacritty
 # Matar ventana
 #Windows + Q
 bindsym $mod+q kill
