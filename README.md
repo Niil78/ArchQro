@@ -1,14 +1,17 @@
-# ArchQro **[VERSION ALPHA 0.3]** 
-ArchQuero Linux. Basado en ArchLinux.
+# ArchQro
                 
-**Este proyecto esta siendo mudado desde un proyecto antiguo. 
-Esta sufriendo un lavado de cara y publicacion publica para todos los usuarios.
-Contara con instalacion interactiva y automatica.
-Para la instalacion de ArchLinux y las aplicaciones añadidas.**
+                                                    **ARCHQERO LINUX. **
 
+ArchQuero Linux is based on ArchLinux.
+All these are files or small scripts to convert a clean and recent installation. In a distribution that I am creating.
+ It is composed of a lot of tools that are easy to use and very useful. It is intended for desktop and laptop computers. 
 
+ArchQuero Linux. esta basado en ArchLinux.
+Todo esto son archivos o pequeños scripts para convertir una instalacion limpia y reciente. En una distribucion que estoy creando.
+ Esta compuesta por un monton de herramientas que son sencillas de usar y muy utiles. Esta pensado para ordenadores de escritorio. y laptop. 
 
-Distribucion basada en ArchLinux, Con herramientas para analisis de redes domesticas.
+# I am not having time to work on the project. But it is not abandoned.
+# No estoy teniendo tiempo de poder trabajar en el proyecto. Pero no esta abandonado.
 
         [-] -> Sin Realizar 
         [%] -> Sin acabar
@@ -50,14 +53,15 @@ Aplicaciones que incluye: (con instalador propio y opcion de instalar o omitir i
                     > wpa_suplicant     | Configuracion basica wifi
                     > dialog            | Herramienta necesaria
                 > #Terminales:
-                    > terminator        | Multi consola
+                    > terminator        | Potente Emulador de consola
                     > screen            | Consola virtual
-                    > tmux              | Multi consola virtual
+                    > tmux              | Potente herramienta en consola
+                    > alacritty         | Emulador de consola
                 > #Navegadores:
-                    > Firefox
-                    > Opera
-                    > Brave
-                    > tor-browser-en    
+                    > Firefox           | Navegador
+                    > Opera             | Navegador
+                    > Brave             | Navegador
+                    > tor-browser-en    | Navegador
                 > #Comunicacion:
                     > weechat           | IRC en consola
                     > teamSpeak         | Comunicacion verbal
@@ -72,7 +76,7 @@ Aplicaciones que incluye: (con instalador propio y opcion de instalar o omitir i
                 > i3wm                  | Gestor de ventanas
                 > kde                   | Gestor de ventanas
                 > gnome                 | Gestor de ventanas
-
+                > Bspwn                 | Gestor de venatanas 
             > ~#Informatica:
                     > steghide          | Stenografica
                     > macchange         | Cambiar MAC 
@@ -95,7 +99,7 @@ Aplicaciones que incluye: (con instalador propio y opcion de instalar o omitir i
                     > zeek              | Framework Redes
 
             > ~# Firewalls:
-                > csf                   | Firewall potentes
+                > csf                   | Firewall potente
                 > ufw , ufw-extras      | Firewall extra
 
             > ~#Programacion:
@@ -164,4 +168,4 @@ Aplicaciones que incluye: (con instalador propio y opcion de instalar o omitir i
 
 #  **KOPIMY** Siéntete libre de participar en mi proyecto.
 
-2021
+2021 - 2022
