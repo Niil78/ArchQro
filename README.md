@@ -1,6 +1,6 @@
 # ArchQro
                 
-                                                    **ARCHQERO LINUX. **
+                                                      ARCHQERO LINUX.
 
 ArchQuero Linux is based on ArchLinux.
 All these are files or small scripts to convert a clean and recent installation. In a distribution that I am creating.
